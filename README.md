@@ -12,7 +12,7 @@ Before proceeding with this guide, make sure you have:
 
 Deploying the application to Azure is as simple as clicking the "Deploy to Azure" button below.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSoftlandia-Ltd%2Fqdrant-azure-app-service%2Fmain%2Ftemplate.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAnush008%2Fqdrant-azure-app-service%2Fmain%2Ftemplate.json)
 
 The link will direct you to the Azure portal with pre-filled parameters from the ARM template. You'll need to fill in any remaining necessary parameters (e.g., subscription, resource group, app service names etc.), then click "Review + create" to validate and deploy the template.
 
