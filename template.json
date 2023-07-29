@@ -76,7 +76,7 @@
             },
             {
               "name": "WEBSITES_PORT",
-              "value": "6333"
+              "value": "6334"
             }
           ],
           "alwaysOn": true,
